@@ -2,9 +2,9 @@
 
 > Saybig is an iPhone app that turns your speech into huge, bold on-screen text so the person across from you can read it. You talk; they read; they never touch the phone. Speech is recognized on the iPhone itself and is not uploaded or saved as a recording. You can also type a sentence and show it in the same big text. Face to Face Mode turns the big text upside down so it reads correctly from across the table. Free download, 7-day free trial, then one-time US$2.99 unlock. It has no subscription, no ads, no account and no data collection by the developer. Recognition languages: Mandarin (Taiwan) and English. Interface languages: English and Traditional Chinese. It is a communication tool, and like all speech recognition it can make mistakes with words that sound alike.
 
-- App Store: Coming soon
+- App Store: https://apps.apple.com/app/id6837171846
 - Pricing: Free download, 7-day free trial, then one-time US$2.99 unlock
-- Last updated: 2026-11-20, version 1.0
+- Last updated: 2026-11-21, version 1.0
 - Platform: iPhone, iOS 26 or later. On iPhone Duo (iOS 27.1 or later) it adapts to the fold: half-open and upright it stands on a table as a caption card (big text on the upright half facing the other person, controls on the flat half); fully open it shows more sentences at once; held sideways on the inner screen it shows big text on the left and controls plus a list of the conversation on the right.
 - Data: stays on device; no account; voice recognized on the iPhone, not uploaded and not saved as audio; History is stored only on the iPhone and can be turned off or cleared; the only network use is iOS downloading speech recognition data the first time a language is used
 - How it works: tap the microphone button and talk; words appear as big text; a brief pause or the end of a sentence starts a new line; it pauses itself after 3 minutes of silence and stops listening when you leave the app

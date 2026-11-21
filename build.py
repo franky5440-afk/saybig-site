@@ -5,7 +5,7 @@ import os
 
 BASE = "https://franky5440-afk.github.io/saybig-site/"
 EMAIL = "franky5440@hotmail.com"
-UPDATED = "2026-11-20"
+UPDATED = "2026-11-21"
 VERSION = "1.0"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
@@ -40,7 +40,7 @@ EN["index"] = """
 <li><strong>Made for iPhone Duo too.</strong> Half-open, it stands on the table like a caption card: big text facing them, controls facing you.</li>
 </ul>
 <p>Good for talking with grandparents, at a clinic counter or pharmacy, with a caregiver, or anywhere it is too noisy to be heard. Speech recognition understands Mandarin (Taiwan) and English. It does not understand Taiwanese Hokkien, and like any speech recognition it will sometimes get a word wrong, so check the small preview on your side.</p>
-<p><strong>App Store:</strong> Coming soon. Free download, 7-day free trial, then a one-time US$2.99 unlock. No subscription.</p>
+<p><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6837171846">Download Saybig on the App Store</a>. Free download, 7-day free trial, then a one-time US$2.99 unlock. No subscription.</p>
 <p><a href="guide/">Read the user guide</a> · <a href="support/">Support</a> · <a href="privacy/">Privacy policy</a></p>
 """
 
@@ -55,7 +55,7 @@ ZH["index"] = """
 <li><strong>iPhone Duo 也好用。</strong>半開立在桌上就像一塊字幕牌：大字面向對方，控制按鈕面向你。</li>
 </ul>
 <p>適合跟家裡長輩說話、在診所或藥局櫃檯、請看護溝通，或是太吵聽不清楚的地方。語音辨識聽得懂國語（台灣）與英文，聽不懂台語；而且跟所有語音辨識一樣，偶爾會有同音字錯誤，建議看一下自己這邊的小字預覽。</p>
-<p><strong>App Store：</strong>即將上架。免費下載、7 天免費試用，之後一次付清 US$2.99 解鎖。沒有訂閱。</p>
+<p><strong>App Store：</strong><a href="https://apps.apple.com/app/id6837171846">到 App Store 下載說給你看</a>。免費下載、7 天免費試用，之後一次付清 US$2.99 解鎖。沒有訂閱。</p>
 <p><a href="guide/">看使用說明</a> · <a href="support/">支援</a> · <a href="privacy/">隱私權政策</a></p>
 """
 
@@ -336,7 +336,7 @@ LLMS = """# Saybig: Speech to Big Text（說給你看：講話變大字）
 
 > Saybig is an iPhone app that turns your speech into huge, bold on-screen text so the person across from you can read it. You talk; they read; they never touch the phone. Speech is recognized on the iPhone itself and is not uploaded or saved as a recording. You can also type a sentence and show it in the same big text. Face to Face Mode turns the big text upside down so it reads correctly from across the table. Free download, 7-day free trial, then one-time US$2.99 unlock. It has no subscription, no ads, no account and no data collection by the developer. Recognition languages: Mandarin (Taiwan) and English. Interface languages: English and Traditional Chinese. It is a communication tool, and like all speech recognition it can make mistakes with words that sound alike.
 
-- App Store: Coming soon
+- App Store: https://apps.apple.com/app/id6837171846
 - Pricing: Free download, 7-day free trial, then one-time US$2.99 unlock
 - Last updated: %(date)s, version %(ver)s
 - Platform: iPhone, iOS 26 or later. On iPhone Duo (iOS 27.1 or later) it adapts to the fold: half-open and upright it stands on a table as a caption card (big text on the upright half facing the other person, controls on the flat half); fully open it shows more sentences at once; held sideways on the inner screen it shows big text on the left and controls plus a list of the conversation on the right.
